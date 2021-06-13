@@ -1,4 +1,4 @@
-#Algorithm_02
+# Algorithm_02
 
 ## [MODEL 1 : 3 Layers with 1 Convolution layer]
 #### 1. Model 
